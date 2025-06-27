@@ -873,24 +873,12 @@ hr{
     color: #FF5F38 !important;
 }
 
-.text-violet {
-    color: #8A2BE2 !important;
-}
-
 .description-text .text-orange {
     color: #FF5F38 !important;
 }
 
-.description-text .text-violet {
-    color: #8A2BE2 !important;
-}
-
 .word.text-orange {
     color: #FF5F38 !important;
-}
-
-.word.text-violet {
-    color: #8A2BE2 !important;
 }
 
 .word {
@@ -910,11 +898,6 @@ hr{
 .letter-orange {
     color: #FF5F38;
     text-shadow: 0 0 10px rgba(255, 95, 56, 0.3);
-}
-
-.letter-violet {
-    color: #8A2BE2;
-    text-shadow: 0 0 10px rgba(138, 43, 226, 0.3);
 }
 
 
